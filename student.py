@@ -14,5 +14,7 @@ classmate.marks.append(67)
 classmate.marks.append(100)
 classmate.marks.append(45)
 classmate.marks.append(89)
+classmate.marks.append(89)
+
 print(classmate.marks)
 print(classmate.average())
